@@ -1,0 +1,98 @@
+{
+    "JobStatus": "Success",
+    "Pages": 1,
+    "Tables": [
+        {
+            "CharacterConfidence": 99.5,
+            "LayoutConfidence": 100.0,
+            "Page": 1,
+            "TableJson": {
+                "0": {
+                    "0": "SEK m",
+                    "1": "2019",
+                    "2": "2018"
+                },
+                "1": {
+                    "0": "NET PROFIT",
+                    "1": "20,177",
+                    "2": "23,134"
+                },
+                "2": {
+                    "0": "Valuation gains (losses) during the year",
+                    "1": "-385",
+                    "2": "-1,118"
+                },
+                "3": {
+                    "0": "Income tax on valuation gains (losses) during the year",
+                    "1": "87",
+                    "2": "249"
+                },
+                "4": {
+                    "0": "Transferred to profit or loss for the year¹",
+                    "1": "",
+                    "2": "-13"
+                },
+                "5": {
+                    "0": "Income tax on transfers to profit or loss for the year",
+                    "1": "",
+                    "2": "3"
+                },
+                "6": {
+                    "0": "Cash flow hedges",
+                    "1": "-298",
+                    "2": "-880"
+                },
+                "7": {
+                    "0": "Translation of foreign operations",
+                    "1": "23",
+                    "2": "232"
+                },
+                "8": {
+                    "0": "Taxes on translation effects",
+                    "1": "122",
+                    "2": "350"
+                },
+                "9": {
+                    "0": "Translation of foreign operations",
+                    "1": "145",
+                    "2": "582"
+                },
+                "10": {
+                    "0": "Items that may be reclassified subsequently to profit or loss",
+                    "1": "-153",
+                    "2": "-298"
+                },
+                "11": {
+                    "0": "Own credit risk adjustment (OCA), net of tax2",
+                    "1": "-53",
+                    "2": "221"
+                },
+                "12": {
+                    "0": "Remeasurement of pension obligations, including special salary tax Valuation gains (losses) on plan assets during the year Deferred tax on pensions",
+                    "1": "-5,665 7,062 -32",
+                    "2": "-981 -59 194"
+                },
+                "13": {
+                    "0": "Defined benefit plans",
+                    "1": "1,366",
+                    "2": "-846"
+                },
+                "14": {
+                    "0": "Items that will not be reclassified to profit or loss",
+                    "1": "1,313",
+                    "2": "-625"
+                },
+                "15": {
+                    "0": "OTHER COMPREHENSIVE INCOME",
+                    "1": "1,160",
+                    "2": "-923"
+                },
+                "16": {
+                    "0": "TOTAL COMPREHENSIVE INCOME",
+                    "1": "21,336",
+                    "2": "22,211"
+                }
+            }
+        }
+    ]
+}
